@@ -1,14 +1,20 @@
 📊 Customer Churn Prediction
+
 This project aims to analyze customer churn in a telecommunications company and build predictive models to identify customers who are at risk of leaving the service. The final goal is to generate actionable insights and improve customer retention.
 
 📁 Dataset
+
 Name: Telco_Customer_Churn_Dataset.csv
+
 
 Description: Contains information about telecom customers including services they use, account information, demographics, and whether they have churned.
 
+
 Target Variable: Churn (Yes/No)
 
+
 ✅ Tasks Breakdown
+
 🔹 Task 1: Data Loading & Initial Inspection
 Loaded the CSV file using pandas.
 
