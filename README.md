@@ -85,27 +85,35 @@ Sample results:
 yaml
 Copy code
 ✅ Evaluation Results:
+
 Accuracy: 0.7587
+
 Precision: 0.5541
+
 Recall: 0.4652
+
 F1 Score: 0.5058
+
 ROC-AUC Score: 0.7848
+
 
 📄 Classification Report:
               precision    recall  f1-score   support
           0       0.82      0.86      0.84      1035
           1       0.55      0.47      0.51       374
-📝 Final Report
-A complete Word document is generated summarizing:
 
-Project overview
+🧠 Tools & Libraries Used
 
-Data insights
+1.Python
 
-Preprocessing steps
+2.pandas, numpy
 
-Feature selection
+3.matplotlib, seaborn
 
-Model building and evaluation
+4.sklearn
 
-Dataset snippets and plots
+
+📌 Conclusion:
+
+Random Forest provided decent performance (~76% accuracy).
+
